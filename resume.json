@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Plamen Mitev",
+    "label": "Developer",
+    "image": "https://raw.githubusercontent.com/o0pmitev/cv-plamen-mitev/refs/heads/master/assets/img/plamen-mitev.jpeg",
+    "email": "pmitev.dev@gmail.com",
+    "phone": "+359 879809941",
+    "url": "https://o0pmitev.github.io/cv-plamen-mitev/",
+    "summary": "Game Developer specializing in JavaScript, Unity, and front‑end game systems. Experienced in building real‑time interactive games, slot mechanics, UI systems, and performance‑optimized animations. Strong background in both web technologies and game engines, with hands‑on production experience across multiple studios.",
+    "location": {
+      "city": "Sofia",
+      "countryCode": "BG",
+      "region": "Sofia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "plamen-mitev",
+        "url": "https://github.com/o0pmitev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "o0pmitev",
+        "url": "https://www.linkedin.com/in/plamen-mitev/"
+      },
+      {
+        "network": "Codepen",
+        "username": "@plamen-mitev",
+        "url": "https://codepen.io/plamen-mitev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Evolution",
+      "position": "Front-end Game Developer",
+      "url": "https://evolution.com/",
+      "startDate": "2023-02-01",
+      "endDate": "Currently working there",
+      "techStack": "JavaScript, TypeScript, Pixi.js, GSAP, git,",
+      "summary": "Developing front‑end systems for online slot games using JavaScript, TypeScript, Pixi.js, and GSAP. Responsible for implementing game logic, UI flows, animations, and performance‑critical features used by thousands of concurrent players. Collaborate closely with designers, artists, and backend teams to deliver polished, stable, and visually engaging game experiences.",
+      "highlights": [
+        "Implemented interactive UI components, features, and animations for multiple online slot games.",
+        "Optimized rendering performance and asset handling, reducing frame drops and improving smoothness.",
+        "Collaborated with cross‑functional teams to integrate new features and maintain high production quality."
+      ]
+    },
+    {
+      "name": "Wiener Games",
+      "position": "Software Developer",
+      "url": "https://www.wienergames.com/",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-01",
+      "techStack": "TypeScript, Cocos Creator, Pixi.js, git,",
+      "summary": "Developed slot games using TypeScript, Cocos Creator, and Pixi.js. Built core gameplay systems including reels, paylines, bonus features, and game states. Worked closely with designers and artists to integrate assets and tune gameplay behavior.",
+      "highlights": [
+        "Implemented slot mechanics such as reel spinning, symbol evaluation, and bonus triggers.",
+        "Built reusable UI components and animation systems for multiple game projects.",
+        "Improved game performance by optimizing update loops, asset loading, and scene transitions."
+      ]
+    },
+    {
+      "name": "Spark Networks",
+      "position": "Front-end Developer",
+      "url": "https://www.spark.net/",
+      "startDate": "2021-10-01",
+      "endDate": "2022-09-01",
+      "techStack": "HTML ,CSS / SASS ,Typescript ,React, Svelte, PHP, Wordpress,Liquid, git",
+      "summary": "Build landing pages with best SEO practices for bringing traffic to main platforms",
+      "highlights": [
+        "Designs and develops project proposals",
+        "Help reducing technical debt",
+        "Tutor and helping junior developers",
+        "Fixing bugs for existing websites using different technologies, and implements enchantments that improved web performance"
+      ]
+    },
+    {
+      "name": "Alokai (Altagram)",
+      "position": "Front-end Game Developer",
+      "url": "https://www.alocai.com/",
+      "startDate": "2021-06-01",
+      "endDate": "2021-10-01",
+      "techStack": "HTML ,CSS / SASS , Bootstrap ,Typescript , React , Python, git",
+      "summary": "Help building SAS platform for managing game localization projects",
+      "highlights": [
+        "Worked within an agile team in 2 weeks sprints",
+        "Collaborated with product team members, designers, and developers to implement new features for internal platform.",
+        "Convert design wireframes into reusable react components."
+      ]
+    },
+    {
+      "name": "Altagram",
+      "position": "Front-end Developer Intern",
+      "url": "https://altagram.com/",
+      "startDate": "2020-11-01",
+      "endDate": "2021-06-01",
+      "techStack": "HTML ,CSS / SASS , Bootstrap ,Typescript , React , Python, git",
+      "summary": "Help building SAS platform for managing game localization projects",
+      "highlights": [
+        "Worked within an agile team in 2 weeks sprints.",
+        "Participate in daily stand-ups.",
+        "Helped prioritize and scope feature requests to ensure that the biggest impact features were worked on first.",
+        "Collaborated with product team members,designers, and developers to implement new features for internal platform.",
+        "Work closely with UX/UI designers and building and distribute as a package a design system for internal use.",
+        "Resolve various bugs and issues.",
+        "Convert design wireframes into reusable react components."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arc Academy",
+      "url": "https://online.arc.academy/",
+      "area": "Game Design",
+      "studyType": "Course",
+      "startDate": "2025-01-01",
+      "endDate": "2025-03-01"
+    },
+    {
+      "institution": "DCI Career Institute",
+      "url": "https://digitalcareerinstitute.org/en/",
+      "area": "Fullstack Development",
+      "studyType": "Bootcamp",
+      "startDate": "2020-03-01",
+      "endDate": "2020-09-01"
+    },
+    {
+      "institution": "Career Foundry",
+      "url": "https://careerfoundry.com/",
+      "area": "Fullstack Development",
+      "studyType": "Online Bootcamp",
+      "startDate": "2018-10-01",
+      "endDate": "2019-04-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": ["JavaScript", "React", "Node.js", "TypeScript", "Pixi.js", "GSAP", "Git"]
+    },
+    {
+      "name": "Game Development",
+      "keywords": ["Unity", "C#", "Solar2D", "Lua", "GDevelop", "JavaScript", "Love2D", "CocosCreator"]
+    },
+    {
+      "name": "Game Design",
+      "keywords": ["GDD"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": ["Communication", "Teamwork", "Self management"]
+    },
+  ]
+}
