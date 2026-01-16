@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Plamen Mitev",
-    "label": "Developer",
+    "label": "Front-End Game Developer",
     "image": "https://raw.githubusercontent.com/o0pmitev/cv-plamen-mitev/refs/heads/master/assets/img/plamen-mitev.jpeg",
     "email": "pmitev.dev@gmail.com",
     "phone": "+359 879809941",
@@ -33,25 +33,27 @@
   "work": [
     {
       "name": "Evolution",
-      "position": "Front-end Game Developer",
+      "position": "Front-End Game Developer",
+      "skills": "JavaScript, TypeScript, Pixi.js, GSAP, git,",
+      "tools": "AdobeAnimate, Spine, Jira, GitLab",
       "url": "https://evolution.com/",
       "startDate": "2023-02-01",
-      "endDate": "Currently working there",
-      "techStack": "JavaScript, TypeScript, Pixi.js, GSAP, git,",
-      "summary": "Developing front‑end systems for online slot games using JavaScript, TypeScript, Pixi.js, and GSAP. Responsible for implementing game logic, UI flows, animations, and performance‑critical features used by thousands of concurrent players. Collaborate closely with designers, artists, and backend teams to deliver polished, stable, and visually engaging game experiences.",
+      "endDate": "Present",
+      "summary": "Engineering high-performance front-end systems for online slot games using TypeScript, Pixi.js, and GSAP. Focused on delivering smooth 60fps experiences for thousands of concurrent users.",
       "highlights": [
-        "Implemented interactive UI components, features, and animations for multiple online slot games.",
-        "Optimized rendering performance and asset handling, reducing frame drops and improving smoothness.",
-        "Collaborated with cross‑functional teams to integrate new features and maintain high production quality."
+        "Architected and implemented interactive UI flows and complex game logic for high-traffic slot titles.",
+        "Optimized WebGL rendering pipelines and asset management, significantly reducing load times and memory overhead.",
+        "Engineered reusable animation components with GSAP, ensuring visual consistency and high production 'juice'."
       ]
     },
     {
       "name": "Wiener Games",
       "position": "Software Developer",
+      "skills": "TypeScript, Cocos Creator, Pixi.js, git",
+      "tools": "AdobePhotoshop, Spine, Jira, GitLab",
       "url": "https://www.wienergames.com/",
       "startDate": "2022-09-01",
       "endDate": "2023-02-01",
-      "techStack": "TypeScript, Cocos Creator, Pixi.js, git,",
       "summary": "Developed slot games using TypeScript, Cocos Creator, and Pixi.js. Built core gameplay systems including reels, paylines, bonus features, and game states. Worked closely with designers and artists to integrate assets and tune gameplay behavior.",
       "highlights": [
         "Implemented slot mechanics such as reel spinning, symbol evaluation, and bonus triggers.",
@@ -62,25 +64,27 @@
     {
       "name": "Spark Networks",
       "position": "Front-end Developer",
+      "skills": "HTML, CSS / SASS, Typescript, React, Svelte, PHP, Wordpress, Liquid, git",
+      "tools": "Figma, Braze, Jira, GitLab",
       "url": "https://www.spark.net/",
       "startDate": "2021-10-01",
       "endDate": "2022-09-01",
-      "techStack": "HTML ,CSS / SASS ,Typescript ,React, Svelte, PHP, Wordpress,Liquid, git",
       "summary": "Build landing pages with best SEO practices for bringing traffic to main platforms",
       "highlights": [
         "Designs and develops project proposals",
         "Help reducing technical debt",
         "Tutor and helping junior developers",
-        "Fixing bugs for existing websites using different technologies, and implements enchantments that improved web performance"
+        "Fixing bugs for existing websites using different technologies, and implements enhancements that improved web performance"
       ]
     },
     {
       "name": "Alokai (Altagram)",
       "position": "Front-end Game Developer",
+      "skills": "HTML ,CSS / SASS , Bootstrap ,Typescript , React , Python, git",
+      "tools": "Figma, Jira, GitLab",
       "url": "https://www.alocai.com/",
       "startDate": "2021-06-01",
       "endDate": "2021-10-01",
-      "techStack": "HTML ,CSS / SASS , Bootstrap ,Typescript , React , Python, git",
       "summary": "Help building SAS platform for managing game localization projects",
       "highlights": [
         "Worked within an agile team in 2 weeks sprints",
@@ -91,10 +95,11 @@
     {
       "name": "Altagram",
       "position": "Front-end Developer Intern",
+      "skills": "HTML ,CSS / SASS , Bootstrap ,Typescript , React , Python, git",
+      "tools": "Figma, Jira, GitLab",
       "url": "https://altagram.com/",
       "startDate": "2020-11-01",
       "endDate": "2021-06-01",
-      "techStack": "HTML ,CSS / SASS , Bootstrap ,Typescript , React , Python, git",
       "summary": "Help building SAS platform for managing game localization projects",
       "highlights": [
         "Worked within an agile team in 2 weeks sprints.",
@@ -149,6 +154,6 @@
     {
       "name": "Soft Skills",
       "keywords": ["Communication", "Teamwork", "Self management"]
-    },
+    }
   ]
 }
