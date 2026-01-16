@@ -6,7 +6,7 @@
     "email": "pmitev.dev@gmail.com",
     "phone": "+359 879809941",
     "url": "https://o0pmitev.github.io/cv-plamen-mitev/",
-    "summary": "Game Developer specializing in JavaScript, Unity, and front‑end game systems. Experienced in building real‑time interactive games, slot mechanics, UI systems, and performance‑optimized animations. Strong background in both web technologies and game engines, with hands‑on production experience across multiple studios.",
+    "summary": "Front-End Game Developer with a focus on high-performance JavaScript/TypeScript game engines. Specialist in iGaming/Slot mechanics, UI systems, and optimized animations using Pixi.js and GSAP. Proven track record of delivering 60fps interactive experiences in fast-paced production environments.",
     "location": {
       "city": "Sofia",
       "countryCode": "BG",
@@ -15,18 +15,13 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "plamen-mitev",
+        "username": "o0pmitev",
         "url": "https://github.com/o0pmitev"
       },
       {
         "network": "LinkedIn",
-        "username": "o0pmitev",
+        "username": "plamen-mitev",
         "url": "https://www.linkedin.com/in/plamen-mitev/"
-      },
-      {
-        "network": "Codepen",
-        "username": "@plamen-mitev",
-        "url": "https://codepen.io/plamen-mitev"
       }
     ]
   },
@@ -34,12 +29,10 @@
     {
       "name": "Evolution",
       "position": "Front-End Game Developer",
-      "skills": "JavaScript, TypeScript, Pixi.js, GSAP, git,",
-      "tools": "AdobeAnimate, Spine, Jira, GitLab",
       "url": "https://evolution.com/",
       "startDate": "2023-02-01",
       "endDate": "Present",
-      "summary": "Engineering high-performance front-end systems for online slot games using TypeScript, Pixi.js, and GSAP. Focused on delivering smooth 60fps experiences for thousands of concurrent users.",
+      "summary": "Engineering high-performance front-end systems for online slot games using TypeScript, Pixi.js, GSAP, Spine, and AdobeAnimate.",
       "highlights": [
         "Architected and implemented interactive UI flows and complex game logic for high-traffic slot titles.",
         "Optimized WebGL rendering pipelines and asset management, significantly reducing load times and memory overhead.",
@@ -49,12 +42,10 @@
     {
       "name": "Wiener Games",
       "position": "Software Developer",
-      "skills": "TypeScript, Cocos Creator, Pixi.js, git",
-      "tools": "AdobePhotoshop, Spine, Jira, GitLab",
       "url": "https://www.wienergames.com/",
       "startDate": "2022-09-01",
       "endDate": "2023-02-01",
-      "summary": "Developed slot games using TypeScript, Cocos Creator, and Pixi.js. Built core gameplay systems including reels, paylines, bonus features, and game states. Worked closely with designers and artists to integrate assets and tune gameplay behavior.",
+      "summary": "Developed slot games using TypeScript, Cocos Creator, Pixi.js, and Spine.",
       "highlights": [
         "Implemented slot mechanics such as reel spinning, symbol evaluation, and bonus triggers.",
         "Built reusable UI components and animation systems for multiple game projects.",
@@ -64,58 +55,32 @@
     {
       "name": "Spark Networks",
       "position": "Front-end Developer",
-      "skills": "HTML, CSS / SASS, Typescript, React, Svelte, PHP, Wordpress, Liquid, git",
-      "tools": "Figma, Braze, Jira, GitLab",
       "url": "https://www.spark.net/",
       "startDate": "2021-10-01",
       "endDate": "2022-09-01",
-      "summary": "Build landing pages with best SEO practices for bringing traffic to main platforms",
+      "summary": "Developed high-traffic landing pages and web platforms using React, Svelte, TypeScript, and PHP.",
       "highlights": [
-        "Designs and develops project proposals",
-        "Help reducing technical debt",
-        "Tutor and helping junior developers",
-        "Fixing bugs for existing websites using different technologies, and implements enhancements that improved web performance"
+        "Designed and developed project proposals and architectural improvements to reduce technical debt.",
+        "Mentored junior developers and established best practices for SEO and web performance.",
+        "Implemented performance enhancements that significantly improved PageSpeed scores and user retention."
       ]
     },
     {
       "name": "Alokai (Altagram)",
       "position": "Front-end Game Developer",
-      "skills": "HTML ,CSS / SASS , Bootstrap ,Typescript , React , Python, git",
-      "tools": "Figma, Jira, GitLab",
       "url": "https://www.alocai.com/",
       "startDate": "2021-06-01",
       "endDate": "2021-10-01",
-      "summary": "Help building SAS platform for managing game localization projects",
+      "summary": "Developed a SaaS platform for managing game localization projects using React and TypeScript.",
       "highlights": [
-        "Worked within an agile team in 2 weeks sprints",
-        "Collaborated with product team members, designers, and developers to implement new features for internal platform.",
-        "Convert design wireframes into reusable react components."
-      ]
-    },
-    {
-      "name": "Altagram",
-      "position": "Front-end Developer Intern",
-      "skills": "HTML ,CSS / SASS , Bootstrap ,Typescript , React , Python, git",
-      "tools": "Figma, Jira, GitLab",
-      "url": "https://altagram.com/",
-      "startDate": "2020-11-01",
-      "endDate": "2021-06-01",
-      "summary": "Help building SAS platform for managing game localization projects",
-      "highlights": [
-        "Worked within an agile team in 2 weeks sprints.",
-        "Participate in daily stand-ups.",
-        "Helped prioritize and scope feature requests to ensure that the biggest impact features were worked on first.",
-        "Collaborated with product team members,designers, and developers to implement new features for internal platform.",
-        "Work closely with UX/UI designers and building and distribute as a package a design system for internal use.",
-        "Resolve various bugs and issues.",
-        "Convert design wireframes into reusable react components."
+        "Collaborated in an Agile environment to convert complex design wireframes into reusable React components.",
+        "Worked closely with product teams to implement features for internal game management tools."
       ]
     }
   ],
   "education": [
     {
       "institution": "Arc Academy",
-      "url": "https://online.arc.academy/",
       "area": "Game Design",
       "studyType": "Course",
       "startDate": "2025-01-01",
@@ -123,7 +88,6 @@
     },
     {
       "institution": "DCI Career Institute",
-      "url": "https://digitalcareerinstitute.org/en/",
       "area": "Fullstack Development",
       "studyType": "Bootcamp",
       "startDate": "2020-03-01",
@@ -131,7 +95,6 @@
     },
     {
       "institution": "Career Foundry",
-      "url": "https://careerfoundry.com/",
       "area": "Fullstack Development",
       "studyType": "Online Bootcamp",
       "startDate": "2018-10-01",
@@ -145,15 +108,11 @@
     },
     {
       "name": "Game Development",
-      "keywords": ["Unity", "C#", "Solar2D", "Lua", "GDevelop", "JavaScript", "Love2D", "CocosCreator"]
+      "keywords": ["Unity", "C#", "Solar2D", "Lua", "GDevelop", "Love2D", "CocosCreator"]
     },
     {
-      "name": "Game Design",
-      "keywords": ["GDD"]
-    },
-    {
-      "name": "Soft Skills",
-      "keywords": ["Communication", "Teamwork", "Self management"]
+      "name": "Tools",
+      "keywords": ["Jira", "GitLab", "Figma", "Adobe Animate", "Adobe Photoshop", "Spine"]
     }
   ]
 }
