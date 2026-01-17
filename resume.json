@@ -76,6 +76,19 @@
         "Collaborated in an Agile environment to convert complex design wireframes into reusable React components.",
         "Worked closely with product teams to implement features for internal game management tools."
       ]
+    },
+    {
+      "name": "Altagram",
+      "position": "Front-End Developer Intern",
+      "startDate": "2020-11-01",
+      "endDate": "2021-06-01",
+      "summary": "Assisted in building a SaaS platform for game localization management using React, TypeScript, Python, and Bootstrap.",
+      "highlights": [
+        "Collaborated within an Agile team to develop and package a design system for internal use, improving UI consistency.",
+        "Converted complex design wireframes into modular, reusable React components.",
+        "Contributed to feature prioritization and scoping to ensure high-impact project delivery.",
+        "Resolved critical bugs and performance issues across the platform's front-end architecture."
+      ]
     }
   ],
   "education": [
