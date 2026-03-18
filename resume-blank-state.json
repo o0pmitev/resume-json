@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "keywords": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "keywords": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "keywords": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
